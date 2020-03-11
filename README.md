@@ -1,11 +1,6 @@
-# Private Events
 
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Contributors](#contributing)
+<h1 align="center">Private Events 👋</h1>
+<img src="https://i.ibb.co/RctQLKc/Screenshot-from-2020-03-11-16-33-32.png" alt="Screenshot-from-2020-03-11-16-33-32" border="0">
 
 ## About the project
 
@@ -34,7 +29,26 @@ Finally, run the app in a local server:
 $ rails server
 ```
 
-## Contributors
+## Authors
 
-* [Tunde Oretade](https://github.com/tundeiness)
-* [Olga Pelts](https://github.com/pelzolga123)
+👤 **Olga Pelts**
+   - Github: [@pelzolga123](https://github.com/pelzolga123)
+   - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
+
+👤 **Tunde Oretade**
+   - Github: [@tundeiness](https://github.com/tundeiness)
+   - LinkedIn: [Tunde Oretade](https://www.linkedin.com/in/tundeoretade/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/Private-Events/issues).
+
+1. Fork it (https://github.com/pelzolga123/Bookstore/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add')
+4. Push to the branch (git push origin feature/[feature-name])
+5. Create a new Pull Request
+
+## Show your support
+
+Give a ⭐️ if you like this project!
