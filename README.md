@@ -27,6 +27,13 @@ $ rails db:migrate
 Finally, run the app in a local server:
 ```sh
 $ rails server
+
+```
+### Testing project
+* run tests
+
+```sh
+rspec
 ```
 
 ## Authors
