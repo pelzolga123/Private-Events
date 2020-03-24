@@ -30,7 +30,7 @@ $ rails server
 
 ```
 ### Testing project
-* run tests
+* Run tests
 
 ```sh
 rspec
