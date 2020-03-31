@@ -4,7 +4,7 @@
 
 ## About the project
 
-Private Events app is build similar to a private Eventbrite, which allows users to create events and manage user signups. Users can create events and attend them. Events take place at a specific date and at a location. Only signed up user can create events. A user can attend many events and an event can be attended by many users. 
+Private Events app is built similar to a private Eventbrite, which allows users to create events and manage user signups. Users can create events and attend them. Events take place at a specific date and at a location. Only signed up the user can create events. A user can attend many events and an event can be attended by many users. 
 
 ### Built With
 
